@@ -206,7 +206,7 @@ function mostrarLibro({
 const libro = {
     titulo: "JavaScript Moderno",
     autor: {
-        nombre: "Juan Pérez"
+        nombre: "Juan M Pérez"
     },
     editorial: {
         nombre: "TechBooks"
