@@ -165,18 +165,18 @@
 
 20) 
      
-    ¿Es recomendable hacer desestructuración muy larga?
+¿Es recomendable hacer desestructuración muy larga?
 
-        No siempre. Puede dificultar la lectura.
+    No siempre. Puede dificultar la lectura.
 
-    ¿Cuándo es mejor dividirla?
+¿Cuándo es mejor dividirla?git st
 
-        uando el objeto es muy grande o complejo.
+    uando el objeto es muy grande o complejo.
 
-    ¿Errores comunes?
+¿Errores comunes?
 
-        Desestructurar propiedades que no existen.
+    Desestructurar propiedades que no existen.
 
-        Escribir mal los nombres.
+    Escribir mal los nombres.
 
-        No validar que el objeto exista.
+    No validar que el objeto exista.
